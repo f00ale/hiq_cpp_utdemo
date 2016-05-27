@@ -1,0 +1,8 @@
+Some examples from a seminar at HiQ Stockholm about unit-testing and mocking in C++.
+
+Examples are using the libraries
+* CrpCut - http://crpcut.sourceforge.net/
+* Trompeloeil - https://github.com/rollbear/trompeloeil
+
+You probably need to change paths to where the libraries are installed in Makefile.
+
